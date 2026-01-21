@@ -2118,7 +2118,7 @@ background-image: url("../images/Properties-banner.jpg");
 
   .property-img,
   .property-image {
-    height: 200px;
+    height: 400px;
   }
 
   .badge {
@@ -2153,7 +2153,7 @@ background-image: url("../images/Properties-banner.jpg");
 
   .property-img,
   .property-image {
-    height: 180px;
+    height: 400px;
   }
 
   .badge {
@@ -2865,6 +2865,7 @@ background-image: url("../images/Properties-banner.jpg");
   90%  { transform: translateX(-300%); }
   100% { transform: translateX(-300%); }
 }
+
 
 
 
