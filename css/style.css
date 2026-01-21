@@ -2093,7 +2093,7 @@ background-image: url("../images/Properties-banner.jpg");
 
   .property-img,
   .property-image {
-    height: 220px;
+    height: 400px;
   }
 
   .property-content h3 {
@@ -2865,6 +2865,7 @@ background-image: url("../images/Properties-banner.jpg");
   90%  { transform: translateX(-300%); }
   100% { transform: translateX(-300%); }
 }
+
 
 
 
