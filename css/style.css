@@ -4,7 +4,7 @@
   box-sizing: border-box;
   font-family: Arial, sans-serif;
 }
-/* overflow hiding body  css */
+/* overflow hiding body head  css */
 
 html, body {
   max-width: 100%;
@@ -2865,6 +2865,7 @@ background-image: url("../images/Properties-banner.jpg");
   90%  { transform: translateX(-300%); }
   100% { transform: translateX(-300%); }
 }
+
 
 
 
